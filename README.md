@@ -1,2 +1,2 @@
 # unscented_kalman_filter
-Tracking Objects using unscented kalman filter algortihm
+Tracking Objects using unscented kalman filter algorithm
